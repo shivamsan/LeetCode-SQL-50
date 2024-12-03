@@ -43,19 +43,19 @@ The repository is organized as follows:
 ## 🔗 Links
 
 - **LeetCode Study Plan**: [Top SQL 50](https://leetcode.com/studyplan/top-sql-50/)
-- **GitHub Profile**: [Your GitHub Link Here]
+- **GitHub Profile**: [https://github.com/shivamsan]
 
 ---
 
 ## 📊 Progress Tracker
 
 .
-├── Day 01 - [Question Title]
-│ ├── question.md # Problem Description
-│ ├── solution.sql # My SQL Solution
-├── Day 02 - [Question Title]
-│ ├── question.md # Problem Description
-│ ├── solution.sql # My SQL Solution
+├── Day_01-LeetCode@1757_Recyclable_and_Low_Fat_Products
+│ ├── 01.LeetCode@1757_Recyclable_and_Low_Fat_Products.md
+│ ├── 01.LeetCode@1757_Recyclable_and_Low_Fat_Products.sql
+├── Day_02-LeetCode@584_Find_Customer_Referee
+│ ├── 02.LeetCode@584_Find_Customer_Referee.md
+│ ├── 02.LeetCode@584_Find_Customer_Referee.sql
 └── ...
 
 ---
