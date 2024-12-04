@@ -17,18 +17,27 @@ This repository is dedicated to my journey of solving the **Top 50 SQL Questions
 
 ## 📂 Repository Structure
 
-The repository is organized as follows:
+The repository is structured as follows:
 
 ```
 .
-├── Day 01 - [Question Title]
-│   ├── question.md      # Problem Description
-│   ├── solution.sql     # My SQL Solution
-├── Day 02 - [Question Title]
-│   ├── question.md      # Problem Description
-│   ├── solution.sql     # My SQL Solution
-└── ...
+├── README.md
+├── Day_1
+│   ├── problem.md
+│   └── solution.sql
+├── Day_2
+│   ├── problem.md
+│   └── solution.sql
+...
+├── Day_50
+    ├── problem.md
+    └── solution.sql
+
 ```
+
+- Each day's folder contains:
+  - `problem.md`: 📜 The problem statement from LeetCode.
+  - `solution.sql`: 💾 My SQL solution to the problem.
 
 ---
 
@@ -47,16 +56,13 @@ The repository is organized as follows:
 
 ---
 
-## 📊 Progress Tracker
+## 📈 Progress
 
-.
-├── Day_01-LeetCode@1757_Recyclable_and_Low_Fat_Products
-│ ├── 01.LeetCode@1757_Recyclable_and_Low_Fat_Products.md
-│ ├── 01.LeetCode@1757_Recyclable_and_Low_Fat_Products.sql
-├── Day_02-LeetCode@584_Find_Customer_Referee
-│ ├── 02.LeetCode@584_Find_Customer_Referee.md
-│ ├── 02.LeetCode@584_Find_Customer_Referee.sql
-└── ...
+| Day | Problem Title                                                                                                                           | Solution Link                                                                                                     |
+| --- | --------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
+| 1   | [Recyclable and Low Fat Products](01.LeetCode@1757_Recyclable_and_Low_Fat_Products/01.LeetCode@1757_Recyclable_and_Low_Fat_Products.md) | [Solution](01.LeetCode@1757_Recyclable_and_Low_Fat_Products/01.LeetCode@1757_Recyclable_and_Low_Fat_Products.sql) |
+| 2   | [Find Customer Referee](02.LeetCode@584_Find_Customer_Referee/02.LeetCode@584_Find_Customer_Referee.md)                                 | [Solution](02.LeetCode@584_Find_Customer_Referee/02.LeetCode@584_Find_Customer_Referee.sql)                       |
+| 3   | [Big Countries](03.LeetCode@595_Big_Countries/03.LeetCode@595_Big_Countries.md)                                                         | [Solution](03.LeetCode@595_Big_Countries/03.LeetCode@595_Big_Countries.sql)                                       |
 
 ---
 
@@ -69,6 +75,21 @@ The repository is organized as follows:
 ---
 
 Feel free to explore my solutions and contribute if you find ways to improve them. Let's ace SQL together! 💪
+
+---
+
+### 💡 Running the Solutions
+
+1. Copy the content of the `solution.sql` file for the respective day.
+2. Open your SQL database management tool.
+3. Execute the query to see the results.
+
+---
+
+## 📬 Contact
+
+For any questions or suggestions, feel free to reach out to me via GitHub issues.
+Happy coding! 🎉
 
 ---
 
